@@ -1,8 +1,4 @@
-Sure! Here's a draft for your README file for the project based on your Jupyter notebook:
-
----
-
-# LFW Dataset Analysis and Classification Project
+# LFW Dataset Face Recognition Project
 
 ## Overview
 This project involves analyzing and building a classification model using the [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/) dataset, which contains images of faces collected from the web for studying the problem of face recognition in an unconstrained environment. The aim is to explore and understand the dataset through data analysis and then build a machine learning model that can classify these faces.
