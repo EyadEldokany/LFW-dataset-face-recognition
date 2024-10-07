@@ -43,7 +43,6 @@ A Convolutional Neural Network (CNN) model was used to classify the images. Key 
 4. **Data Augmentation**: Applied data augmentation techniques to improve generalizability.
 
 ## Results
-- **Accuracy**: The model achieved an accuracy of **X%** on the test set.
 - **Confusion Matrix**: Displayed confusion matrices to visualize performance across different classes.
 
 ## Requirements
